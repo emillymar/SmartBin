@@ -9,7 +9,7 @@ import random
 ldr_last_state = 1
 
 def open_image(file_name):
-    img_path = f'/home/smartbin/Pictures/{file_name}.jpeg'
+    img_path = f'/home/smartbin/Documents/SmartBin/Pictures/{file_name}.jpeg'
     img = Image.open(img_path)
     img.show()
     return img
