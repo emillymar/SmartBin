@@ -1,4 +1,4 @@
-# Welcome to the SmartBin Repository
+# SmartBin Repository
 
 Welcome to the SmartBin repository, where we aim to drive sustainable recycling behaviors using an interactive, IoT-based smart trash bin. This project leverages persuasive technology and participatory design methodologies to increase user engagement in recycling, with applications that are particularly impactful in educational and community settings.
 
