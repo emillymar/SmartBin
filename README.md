@@ -6,8 +6,8 @@ The SmartBin project integrates concepts from Human-Computer Interaction (HCI), 
 
 Key Features
 Interactive Feedback: Equipped with sensors to detect waste disposal, the bin provides instant feedback using memes and animations, making the recycling experience engaging and rewarding.
-Real-Time Monitoring: The SmartBin uses ultrasonic and laser sensors to monitor its fill level, notifying waste collectors when it is ready for emptying, thus optimizing collection schedules.
-Educational Content: Through a web application, the SmartBin system offers information on recycling practices, locations for material disposal, and the environmental impact of proper waste management.
+Real-Time Monitoring: The SmartBin uses ultrasonic sensor to monitor its fill level, notifying waste collectors when it is ready for emptying, thus optimizing collection schedules.
+
 Installation and Setup
 Hardware Requirements:
 
@@ -30,23 +30,9 @@ Usage
 Disposal Detection: As users dispose of items, the system detects the action and displays an educational or motivational meme to reinforce recycling behavior.
 Monitoring and Notifications: When the bin reaches capacity, the system notifies the waste collection team via Telegram for timely emptying.
 Web Application: Accessible from any device, the web app provides recycling tips, locations of collection centers, and interactive content on sustainability.
+
 Design and Methodology
 SmartBin was developed using a Participatory Action Design Research approach, involving students and community members in design cycles to iteratively improve user engagement. Insights from these cycles have shaped the user-centric design and features, prioritizing accessibility and effectiveness in promoting recycling behaviors.
-
-Main Design Cycles
-Cycle 1: Web application for recycling education, focusing on the younger demographic with interactive, meme-based content.
-Cycle 2: Development of the Smart Trash Bin prototype with IoT capabilities, real-time monitoring, and feedback mechanisms.
-Contribution Guidelines
-Contributions are welcome! Please see our Contributing Guide for details on the code of conduct, coding standards, and submission process.
-
-Future Directions
-Planned enhancements include:
-
-Integrating gamification elements, such as rewards for frequent users.
-Expanding compatibility with other messaging platforms beyond Telegram.
-Developing an all-in-one platform integrating both the web application and SmartBin for a unified user experience.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
 This project is part of a research initiative at the Federal University of Rio de Janeiro, funded by CAPES, and supervised by Claudio Miceli and Daniel Schneider. The project extends gratitude to the students and faculty involved in the participatory design process.
