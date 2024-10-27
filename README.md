@@ -42,7 +42,6 @@ The SmartBin project integrates concepts from **Human-Computer Interaction (HCI)
 
 - **Disposal Detection**: As users dispose of items, the system detects the action and displays an educational or motivational meme to reinforce recycling behavior.
 - **Monitoring and Notifications**: When the bin reaches capacity, the system notifies the waste collection team via Telegram for timely emptying.
-- **Web Application**: Accessible from any device, the web app provides recycling tips, locations of collection centers, and interactive content on sustainability.
 
 ---
 
